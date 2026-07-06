@@ -493,10 +493,12 @@ php artisan tinker
 
 ---
 
-## 👤 Auteur
+## 👤 Auteurs
 
 **Boutklmount Hamza**
+
 **Mohamed Bentimzal**
+
 **Ibrahim Rahmani**
 
 
