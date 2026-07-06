@@ -495,9 +495,11 @@ php artisan tinker
 
 ## 👤 Auteur
 
-**ibrahimrh555**
+**Boutklmount Hamza**
+**Mohamed Bentimzal**
+**Ibrahim Rahmani**
 
-- 🐙 GitHub : [@ibrahimrh555](https://github.com/ibrahimrh555)
+
 
 ---
 
